@@ -4,7 +4,7 @@ import webbrowser
 def openfilep():
     webbrowser.open("DIARYDIARY.txt")
 def readfilep():
-    textfilep= open("DIALYDIARY.txt")
+    textfilep= open("DIALYDIARY.txt","r")
     print (textfile.read())
     textfilep.close()
 
