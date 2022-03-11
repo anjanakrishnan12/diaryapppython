@@ -3,7 +3,7 @@
 This project is done by our team. This project is very useful for the people who loves to writing the diary entry. This can be used in digital mode. 
 ## Team members
 1. ANJANA KRISHNAN [http://github.com/anjanakrishnan12]
-2. AADIL BASHEER KB [Embed perosnal github URL]
+2. AADIL BASHEER KB [https://github.com/aadilbasheer]
 ## Team Id
 PYTHON/88
 ## Link to product walkthrough
